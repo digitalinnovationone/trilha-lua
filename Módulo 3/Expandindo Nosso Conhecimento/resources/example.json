@@ -1,0 +1,13 @@
+{
+    "Boolean": true,
+    "Number": 123,
+    "String": "Banana",
+    "List": [
+        1, 2, 3
+    ],
+    "Dictionary": {
+        "Cat": "🐱",
+        "Dolphin": "🐬",
+        "Dragon": "🐲"
+    }
+}
